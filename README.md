@@ -1,4 +1,4 @@
 # apnaclg-demo
 this is my demo repository
 <br>
-author - Dhanashri Jadhav
+author - Dhanashri Jadhav (CSE)
